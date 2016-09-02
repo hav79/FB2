@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FictionBook xmlns:aa="http://www.gribuser.ru/xml/fictionbook/2.0" xmlns:l="http://www.w3.org/1999/xlink">
+  <title-info>
+   <genre>sf</genre>
+   <author>
+    <first-name>Роберт</first-name>
+    <middle-name>Энсон</middle-name>
+    <last-name>Хайнлайн</last-name>
+   </author>
+   <book-title>Аквариум с золотыми рыбками</book-title>
+
+   <date>1942</date>
+   <lang>ru</lang>
+   <src-lang>en</src-lang>
+   <translator>
+    <first-name>А.</first-name>
+    <last-name>Паллерштейн</last-name>
+   </translator>
+   <sequence name="сб. Угроза с Земли" number="6"/>
+  </title-info>
+  <src-title-info>
+   <genre>sf</genre>
+   <author>
+    <first-name>Robert</first-name>
+    <middle-name>Anson</middle-name>
+    <last-name>Heinlein</last-name>
+   </author>
+   <book-title>Goldfish Bowl</book-title>
+   <date>1942</date>
+   <lang>en</lang>
+   <sequence name="col. The Menace from Earth" number="6"/>
+  </src-title-info>
+</FictionBook>
